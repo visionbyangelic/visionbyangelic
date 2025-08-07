@@ -19,7 +19,7 @@
 ## 🛠️ Tools & Languages  
 | Languages           | ML & CV Libraries                          | Web / Frontend     | Automation Tools            | Other Tools                                     |
 |---------------------|---------------------------------------------|--------------------|------------------------------|--------------------------------------------------|
-| Python, JavaScript  | OpenCV, NumPy, Pandas, scikit-learn, YOLOv8 | HTML, CSS, SQL     | Zapier, Make.com, Notion     | Git, FastAPI, Streamlit, Hugging Face, OpenAI API |
+| Python, JavaScript  | OpenCV, NumPy, Pandas, scikit-learn, YOLOv8 | HTML, CSS, SQL     | N8N, Zapier, Make.com, Notion     | Git, FastAPI, Streamlit, Hugging Face, OpenAI API |
 
 
 
