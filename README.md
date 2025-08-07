@@ -50,6 +50,22 @@
 
 ---
 
+
+
+## 📊 GitHub Stats
+
+<div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
+
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=visionbyangelic&show_icons=true&theme=gotham&count_private=true" />
+  
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionbyangelic&layout=compact&theme=radical" />
+
+</div>
+
+---
+
+
+
 <p align="center">
   <em>“Build AI that feels — not just thinks.”</em>
 </p>
