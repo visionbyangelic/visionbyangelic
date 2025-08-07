@@ -22,6 +22,18 @@
 | Python, JavaScript  | OpenCV, NumPy, Pandas, scikit-learn, YOLOv8 | HTML, CSS, SQL     | N8N, Zapier, Make.com, Notion     | Git, FastAPI, Streamlit, Hugging Face, OpenAI API |
 
 
+---
+
+## 🗂️ Featured Repositories
+
+A curated list of organized project spaces:
+
+- 👁️ [**computer-vision-projects**](https://github.com/visionbyangelic/computer-vision-projects) – Real-time CV apps, facial detection, filters & deepfake systems  
+- 🤖 [**machine-learning-projects**](https://github.com/visionbyangelic/machine-learning-projects) – Classical ML, explainability, model tuning, fraud detection  
+- 🔁 [**automation-scripts**](https://github.com/visionbyangelic/automation-scripts) – Zapier, N8N, Make.com, and custom Python automation flows  
+- 🧠 [**leetcode_solutions**](https://github.com/visionbyangelic/leetcode_solutions) – Clean & efficient LeetCode problem-solving with notes  
+- 🧮 [**sql-projects**](https://github.com/visionbyangelic/sql-projects) – Structured query projects for analysis, practice, and reporting  
+- 🌐 [**web-projects**](https://github.com/visionbyangelic/web-projects) – HTML, CSS, JS experiments and frontend portfolio builds
 
 ---
 
