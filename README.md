@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 AI Engineer in training, focused on **Machine Learning** and **Computer Vision**
+- 🎓 AI Engineer, focused on **Machine Learning** and **Computer Vision**
 - 🔍 Exploring **emotion-aware systems**, **real-time CV apps**, and **ethical AI**
 - ⚙️ Automating workflows using **Zapier**, **N8N**, **Make.com**, and custom scripts
 - 🧰 Fan of lightweight tools, fast prototyping, and building things that *feel alive*
