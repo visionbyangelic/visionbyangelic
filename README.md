@@ -33,7 +33,7 @@ A curated list of organized project spaces:
 - 🔁 [**automation-scripts**](https://github.com/visionbyangelic/automation-scripts) – Zapier, N8N, Make.com, and custom Python automation flows  
 - 🧠 [**leetcode_solutions**](https://github.com/visionbyangelic/leetcode_solutions) – Clean & efficient LeetCode problem-solving with notes  
 - 🧮 [**sql-projects**](https://github.com/visionbyangelic/sql-projects) – Structured query projects for analysis, practice, and reporting  
-- 🌐 [**web-projects**](https://github.com/visionbyangelic/web-projects) – HTML, CSS, JS experiments and frontend portfolio builds
+- 🌐 [**web-projects**](https://github.com/visionbyangelic/web-projects) – HTML, CSS, JS experiments
 
 ---
 
@@ -79,5 +79,5 @@ A curated list of organized project spaces:
 
 
 <p align="center">
-  <em>“Build AI that feels — not just thinks.”</em>
+Building emotionally intelligent AI that bridges human connection with machine capability, grounded in ethics, computer vision, and real-time systems.
 </p>
