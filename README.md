@@ -30,7 +30,7 @@
 - 👁️ [**computer-vision-projects**](https://github.com/visionbyangelic/computer-vision-projects) – Real-time CV apps, facial detection, emotion tracking, and deepfake detection  
 - 🤖 [**machine-learning-projects**](https://github.com/visionbyangelic/machine-learning-projects) – Predictive modeling, explainable AI, model optimization, and fraud detection  
 - 🧮 [**data-projects**](https://github.com/visionbyangelic/data-projects) – Kaggle notebooks, SQL workflows, and exploratory data analysis  
-- Kaggle profile: [Angelic on Kaggle](https://www.kaggle.com/visionbyangelic)
+- Kaggle profile: [Angelic on Kaggle](https://www.kaggle.com/nerdyalgorithm)
     
 #### Supporting Skills
 - 🔁 [**automation-scripts**](https://github.com/visionbyangelic/automation-scripts) – Python & no-code automation using Zapier, N8N, and Make.com  
