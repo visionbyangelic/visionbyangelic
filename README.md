@@ -48,8 +48,8 @@
 ## ✍️ Writing & Publications
 
 - Medium: [Medium Articles](https://medium.com/@visionbyangelic) – Data science insights and tutorials  
-- Substack: [Substack Newsletter](https://visionbyangelic.substack.com) – AI, ML, and tech commentary  
-- Hashnode: [Hashnode Blog](https://yourblog.hashnode.dev) – Coding tutorials and project walkthroughs
+- Substack: [Substack Newsletter](https://open.substack.com/pub/nerdyalgorithm) – AI, ML, and tech commentary  
+- Hashnode: [Hashnode Blog](https://hashnode.com/@ZQQ) – Coding tutorials and project walkthroughs
 
 ---
 ## 💼 Work With Me
