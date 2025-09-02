@@ -19,7 +19,7 @@
 
 | Languages                      | ML & Data                                  | Computer Vision (CV)    | Visualization & BI                | Web / Deployment / Frontend          | Automation & Orchestration     | Productivity & Other Tools                       |
 |-------------------------------:|-------------------------------------------|-------------------------|-----------------------------------|--------------------------------------|-------------------------------|--------------------------------------------------|
-| Python, JavaScript, SQL, R     | Pandas, NumPy, scikit-learn, TensorFlow, PyTorch | OpenCV, YOLOv8, Detectron2 | Matplotlib, Seaborn, Plotly, Tableau | HTML, CSS, JavaScript, FastAPI, Streamlit | N8N, Zapier, Make.com         | Git, Docker, Hugging Face, OpenAI API, Excel, Notion, MS Word |
+| Python, JavaScript, SQL, R     | Pandas, NumPy, scikit-learn, TensorFlow, PyTorch | OpenCV, YOLOv8, Detectron2 | Matplotlib, Seaborn, Plotly, Tableau | HTML, CSS, JavaScript, FastAPI, Streamlit | N8N, Zapier, Make.com         | Git, Hugging Face, API, Excel, Notion, MS Word |
 
 
 ---
