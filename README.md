@@ -1,59 +1,63 @@
 <h1 align="center">Hi, I'm Angelic 👩🏾‍💻</h1>
 <p align="center">
-  Machine Learning • Computer Vision • Automation Systems<br>
-  Building emotionally intelligent machines + automating workflows that matter.
+    Data Science • Machine Learning • Computer Vision • Automation Systems<br>
+  Turning raw data into insights, models, and tools that feel human.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 AI Engineer, focused on **Machine Learning** and **Computer Vision**
-- 🔍 Exploring **emotion-aware systems**, **real-time CV apps**, and **ethical AI**
-- ⚙️ Automating workflows using **Zapier**, **N8N**, **Make.com**, and custom scripts
+- 🎓 AI & Data Engineer focused on **Machine Learning**, **Computer Vision**, and **Data Analysis**
+- 🔍 Exploring **real-time analytics**, **emotion-aware AI**, real-time CV apps, and **ethical tech applications**
+- 📊 Skilled in **data cleaning**, **visualization**, and building **end-to-end ML pipelines**
+- ⚙️ Automating workflows using **Zapier**, **N8N**, **Make.com**, and custom Python scripts
 - 🧰 Fan of lightweight tools, fast prototyping, and building things that *feel alive*
+---
+
+## 🛠️ Tools & Languages
+
+| Languages                      | ML & Data                                  | Computer Vision (CV)    | Visualization & BI                | Web / Deployment / Frontend          | Automation & Orchestration     | Productivity & Other Tools                       |
+|-------------------------------:|-------------------------------------------|-------------------------|-----------------------------------|--------------------------------------|-------------------------------|--------------------------------------------------|
+| Python, JavaScript, SQL, R     | Pandas, NumPy, scikit-learn, TensorFlow, PyTorch | OpenCV, YOLOv8, Detectron2 | Matplotlib, Seaborn, Plotly, Tableau | HTML, CSS, JavaScript, FastAPI, Streamlit | N8N, Zapier, Make.com         | Git, Docker, Hugging Face, OpenAI API, Excel, Notion, MS Word |
+
 
 ---
 
+## 🗂️ A Curated List of Project Spaces
 
-## 🛠️ Tools & Languages  
-| Languages           | ML & CV Libraries                          | Web / Frontend     | Automation Tools            | Other Tools                                     |
-|---------------------|---------------------------------------------|--------------------|------------------------------|--------------------------------------------------|
-| Python, JavaScript  | OpenCV, NumPy, Pandas, scikit-learn, YOLOv8 | HTML, CSS, SQL     | N8N, Zapier, Make.com, Notion     | Git, FastAPI, Streamlit, Hugging Face, OpenAI API |
-
-
----
-
-## 🗂️ Featured Repositories
-
-A curated list of organized project spaces:
-
-- 👁️ [**computer-vision-projects**](https://github.com/visionbyangelic/computer-vision-projects) – Real-time CV apps, facial detection, filters & deepfake systems  
-- 🤖 [**machine-learning-projects**](https://github.com/visionbyangelic/machine-learning-projects) – Classical ML, explainability, model tuning, fraud detection  
-- 🔁 [**automation-scripts**](https://github.com/visionbyangelic/automation-scripts) – Zapier, N8N, Make.com, and custom Python automation flows  
-- 🧠 [**leetcode_solutions**](https://github.com/visionbyangelic/leetcode_solutions) – Clean & efficient LeetCode problem-solving with notes  
-- 🧮 [**sql-projects**](https://github.com/visionbyangelic/sql-projects) – Structured query projects for analysis, practice, and reporting  
-- 🌐 [**web-projects**](https://github.com/visionbyangelic/web-projects) – HTML, CSS, JS experiments
+#### Core AI & Data Work
+- 👁️ [**computer-vision-projects**](https://github.com/visionbyangelic/computer-vision-projects) – Real-time CV apps, facial detection, emotion tracking, and deepfake detection  
+- 🤖 [**machine-learning-projects**](https://github.com/visionbyangelic/machine-learning-projects) – Predictive modeling, explainable AI, model optimization, and fraud detection  
+- 🧮 [**data-projects**](https://github.com/visionbyangelic/data-projects) – Kaggle notebooks, SQL workflows, and exploratory data analysis  
+- Kaggle profile: [Angelic on Kaggle](https://www.kaggle.com/visionbyangelic)
+    
+#### Supporting Skills
+- 🔁 [**automation-scripts**](https://github.com/visionbyangelic/automation-scripts) – Python & no-code automation using Zapier, N8N, and Make.com  
+- 🌐 [**web-projects**](https://github.com/visionbyangelic/web-projects) – Frontend prototypes, UI experiments, and micro-interactions  
+- 🧠 [**leetcode_solutions**](https://github.com/visionbyangelic/leetcode_solutions) – Clean & efficient problem-solving with algorithm notes  
 
 ---
 
-
-
-## 🔁 Currently Learning
-
-- 📦 TensorFlow & PyTorch (deep learning)
-- 🧪 Model deployment with FastAPI
+## 🔍 Exploring Next
+- 📦 XGBoost & LightGBM (Gradient Boosting for ML)
+- 🐳 Docker (Containerization for model deployment)
 - 🔄 Real-time data pipelines for emotion recognition
 
+---
+## ✍️ Writing & Publications
+
+- Medium: [Medium Articles](https://medium.com/@visionbyangelic) – Data science insights and tutorials  
+- Substack: [Substack Newsletter](https://visionbyangelic.substack.com) – AI, ML, and tech commentary  
+- Hashnode: [Hashnode Blog](https://yourblog.hashnode.dev) – Coding tutorials and project walkthroughs
 
 ---
-
 ## 💼 Work With Me
 
-- Looking for: **AI/ML internships**, **Computer Vision collabs**, or **Automation gigs**  
-- Ideal work: emotion-aware AI tools, ethical tech, and creative AI apps
-
+- **Looking for:** Data Science roles, AI/ML internships, or Automation projects  
+- **Ideal work:** Building data-driven products, predictive models, emotion-aware AI tools, and ethical technology solutions
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -77,7 +81,6 @@ A curated list of organized project spaces:
 ---
 
 
-
 <p align="center">
-Building emotionally intelligent AI that bridges human connection with machine capability, grounded in ethics, computer vision, and real-time systems.
+Building data-driven and emotionally intelligent AI that bridges human insight with machine capability, grounded in ethics, real-time systems, and computer vision.
 </p>
