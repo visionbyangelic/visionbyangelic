@@ -37,6 +37,8 @@
 - 🌐 [**web-projects**](https://github.com/visionbyangelic/web-projects) – Frontend prototypes, UI experiments, and micro-interactions  
 - 🧠 [**leetcode_solutions**](https://github.com/visionbyangelic/leetcode_solutions) – Clean & efficient problem-solving with algorithm notes  
 
+#### others
+- 🐍 [**Python Projects (Miscellaneous)**](https://github.com/visionbyangelic/other-projects) – A collection of standalone Python projects and experiments that don’t fall under any category. These projects highlight creativity, problem-solving, and exploration with Python.  
 ---
 
 ## 🔍 Exploring Next
