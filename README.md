@@ -49,9 +49,10 @@
 ---
 ## ✍️ Writing & Publications
 
-- Medium: [Medium Articles](https://medium.com/@visionbyangelic) – Data science insights and tutorials  
-- Substack: [Substack Newsletter](https://open.substack.com/pub/nerdyalgorithm) – AI, ML, and tech commentary  
-- Hashnode: [Hashnode Blog](https://hashnode.com/@ZQQ) – Coding tutorials and project walkthroughs
+- Hashnode: [Hashnode Blog](https://nerdyalgorithm.hashnode.dev/?source=top_nav_blog_home) – Main hub for my data science publications, coding tutorials, project walkthroughs, and learning journey.
+- Medium: [Medium Articles](https://medium.com/@visionbyangelic) – Curated, polished AI papers and structured tutorials. 
+- Substack: [Substack Newsletter](https://open.substack.com/pub/nerdyalgorithm) – Personal commentary and essays on AI, ML, and the human side of technology.
+
 
 ---
 ## 💼 Work With Me
