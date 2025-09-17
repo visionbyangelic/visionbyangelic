@@ -27,9 +27,11 @@
 ## 🗂️ A Curated List of Project Spaces
 
 #### Core AI & Data Work
-- 👁️ [**computer-vision-projects**](https://github.com/visionbyangelic/computer-vision-projects) – Real-time CV apps, facial detection, emotion tracking, and deepfake detection  
-- 🤖 [**machine-learning-projects**](https://github.com/visionbyangelic/machine-learning-projects) – Predictive modeling, explainable AI, model optimization, and fraud detection  
-- 🧮 [**data-projects**](https://github.com/visionbyangelic/data-projects) – Kaggle notebooks, SQL workflows, and exploratory data analysis  
+- 👁️ [**computer-vision-projects**](https://github.com/visionbyangelic/computer-vision-projects)
+  
+- 🤖 [**machine-learning-projects**](https://github.com/visionbyangelic/machine-learning-projects)
+  
+- 🧮 [**data-projects**](https://github.com/visionbyangelic/data-projects) 
 - Kaggle profile: [Angelic on Kaggle](https://www.kaggle.com/nerdyalgorithm)
     
 #### Supporting Skills
