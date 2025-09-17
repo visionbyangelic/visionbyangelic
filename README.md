@@ -64,7 +64,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AngelicCharles-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/angeliccharles/)  
+
 [![Twitter](https://img.shields.io/badge/Twitter-@visionbyangelic-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/visionbyangelic)
 [![Discord](https://img.shields.io/badge/Discord-@nerdyalgorithm-blue?style=flat-square&logo=discord)](https://www.discord.com/nerdyalgorithm/)  
 ---
