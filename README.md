@@ -66,7 +66,7 @@
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-@visionbyangelic-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/visionbyangelic)
-[![Discord](https://img.shields.io/badge/Discord-@nerdyalgorithm-blue?style=flat-square&logo=discord)](https://www.discord.com/nerdyalgorithm/)  
+[![Discord](https://img.shields.io/badge/Discord-@nerdyalgorithm-blue?style=flat-square&logo=discord)](https://discord.com/users/nerdyalgorithm)  
 ---
 
 
