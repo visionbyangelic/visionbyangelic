@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 AI & Data Engineer focused on **Machine Learning**, **Computer Vision**, and **Data Analysis**
+- 🎓 Data Scientist focused on **Machine Learning** and **Computer Vision**
 - 🔍 Exploring **real-time analytics**, **emotion-aware AI**, real-time CV apps, and **ethical tech applications**
 - 📊 Skilled in **data cleaning**, **visualization**, and building **end-to-end ML pipelines**
 - ⚙️ Automating workflows using **Zapier**, **N8N**, **Make.com**, and custom Python scripts
@@ -19,7 +19,7 @@
 
 | Languages                      | ML & Data                                  | Computer Vision (CV)    | Visualization & BI                | Web / Deployment / Frontend          | Automation & Orchestration     | Productivity & Other Tools                       |
 |-------------------------------:|-------------------------------------------|-------------------------|-----------------------------------|--------------------------------------|-------------------------------|--------------------------------------------------|
-| Python, JavaScript, SQL, R     | Pandas, NumPy, scikit-learn, TensorFlow, PyTorch | OpenCV, YOLOv8, Detectron2 | Matplotlib, Seaborn, Plotly, Tableau | HTML, CSS, JavaScript, FastAPI, Streamlit | N8N, Zapier, Make.com         | Git, Hugging Face, API, Excel, Notion, MS Word |
+| Python, JavaScript, SQL,     | Pandas, NumPy, TensorFlow, PyTorch | OpenCV, YOLOv8 | Matplotlib, Seaborn, Tableau | HTML, CSS, JavaScript, FastAPI, Streamlit | N8N, Zapier, Make.com         | Git, Hugging Face, API, Excel, Notion, MS Word |
 
 
 ---
@@ -31,8 +31,9 @@
   
 - 🤖 [**machine-learning-projects**](https://github.com/visionbyangelic/machine-learning-projects)
   
-- 🧮 [**data-projects**](https://github.com/visionbyangelic/data-projects) 
-- Kaggle profile: [Angelic on Kaggle](https://www.kaggle.com/nerdyalgorithm)
+- 🧮 [**data-projects**](https://github.com/visionbyangelic/data-projects)
+  
+    - Kaggle profile: [Angelic on Kaggle](https://www.kaggle.com/nerdyalgorithm)
     
 #### Supporting Skills
 - 🔁 [**automation-scripts**](https://github.com/visionbyangelic/automation-scripts) – Python & no-code automation using Zapier, N8N, and Make.com  
@@ -43,12 +44,6 @@
 - 🐍 [**Python Projects (Miscellaneous)**](https://github.com/visionbyangelic/other-projects) – A collection of standalone Python projects and experiments that don’t fall under any category. These projects highlight creativity, problem-solving, and exploration with Python.  
 ---
 
-## 🔍 Exploring Next
-- 📦 XGBoost & LightGBM (Gradient Boosting for ML)
-- 🐳 Docker (Containerization for model deployment)
-- 🔄 Real-time data pipelines for emotion recognition
-
----
 ## ✍️ Writing & Publications
 
 - Hashnode: [Hashnode Blog](https://nerdyalgorithm.hashnode.dev/?source=top_nav_blog_home) – Main hub for my data science publications, coding tutorials, project walkthroughs, and learning journey.
