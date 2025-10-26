@@ -1,18 +1,20 @@
 <h1 align="center">Hi, I'm Angelic 👩🏾‍💻</h1>
 <p align="center">
     Data Science • Machine Learning • Computer Vision • Automation Systems<br>
-  Turning raw data into insights, models, and tools that feel human.
+    Turning raw data into insights, models, and tools that feel human.<br>
+    <i>Everything I build sits at the intersection of data, design, and emotion — where logic meets life.</i>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Data Scientist focused on **Machine Learning** and **Computer Vision**
-- 🔍 Exploring **real-time analytics**, **emotion-aware AI**, real-time CV apps, and **ethical tech applications**
-- 📊 Skilled in **data cleaning**, **visualization**, and building **end-to-end ML pipelines**
-- ⚙️ Automating workflows using **Zapier**, **N8N**, **Make.com**, and custom Python scripts
-- 🧰 Fan of lightweight tools, fast prototyping, and building things that *feel alive*
+- 🎓 Data Scientist focused on **Machine Learning** and **Computer Vision**  
+- 🔍 Exploring **real-time analytics**, **emotion-aware AI**, real-time CV apps, and **ethical tech applications**  
+- 📊 Skilled in **data cleaning**, **visualization**, and building **end-to-end ML pipelines**  
+- ⚙️ Automating workflows using **Zapier**, **N8N**, **Make.com**, and custom Python scripts  
+- 🧰 Fan of lightweight tools, fast prototyping, and building things that *feel alive*  
+
 ---
 
 ## 🛠️ Tools & Languages
@@ -46,7 +48,7 @@
 
 - 🧠 [**Dataraflow**](https://github.com/visionbyangelic/DATARAFLOW) – Data Science internship (learning projects & submissions)  
 - 🧠 [**ML-ZOOMCAMP**](https://github.com/visionbyangelic/ML-ZOOMCAMP) – Online ML course submissions  
-- 🧠 [**NIIT**](https://github.com/visionbyangelic/NIIT) – Software engineering degree; *only select classes and exercises are posted here*  
+- 🧠 [**NIIT**](https://github.com/visionbyangelic/NIIT-SCHOOL-WORK) – Currently erolled in a Software engineering degree; *only select classes and exercises are posted here*  
 
 ---
 ## ✍️ Writing & Publications
