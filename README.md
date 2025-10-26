@@ -36,14 +36,19 @@
     - Kaggle profile: [Angelic on Kaggle](https://www.kaggle.com/nerdyalgorithm)
     
 #### Supporting Skills
-- 🔁 [**automation-scripts**](https://github.com/visionbyangelic/automation-scripts) – Python & no-code automation using Zapier, N8N, and Make.com  
 - 🌐 [**web-projects**](https://github.com/visionbyangelic/web-projects) – Frontend prototypes, UI experiments, and micro-interactions  
 - 🧠 [**leetcode_solutions**](https://github.com/visionbyangelic/leetcode_solutions) – Clean & efficient problem-solving with algorithm notes  
 
 #### others
 - 🐍 [**Python Projects (Miscellaneous)**](https://github.com/visionbyangelic/other-projects) – A collection of standalone Python projects and experiments that don’t fall under any category. These projects highlight creativity, problem-solving, and exploration with Python.  
----
 
+#### 🎓 Classes / School / Internships
+
+- 🧠 [**Dataraflow**](https://github.com/visionbyangelic/DATARAFLOW) – Data Science internship (learning projects & submissions)  
+- 🧠 [**ML-ZOOMCAMP**](https://github.com/visionbyangelic/ML-ZOOMCAMP) – Online ML course submissions  
+- 🧠 [**NIIT**](https://github.com/visionbyangelic/NIIT) – Software engineering degree; *only select classes and exercises are posted here*  
+
+---
 ## ✍️ Writing & Publications
 
 - Hashnode: [Hashnode Blog](https://nerdyalgorithm.hashnode.dev/?source=top_nav_blog_home) – Main hub for my data science publications, coding tutorials, project walkthroughs, and learning journey.
