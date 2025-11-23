@@ -27,6 +27,9 @@
 
 ## 🗂️ Project Spaces
 
+#### 🥇 Original Research & Implementation
+- 📄 [**Multimodal Emotion Recognition**](https://github.com/visionbyangelic/Multimodal-Emotion-Recognition) – **(First-Author Research)** Original work focusing on robust fusion (Modality Dropout, OOM/NaN Engineering Fixes) and interpretable attention.
+
 #### Core AI & Data Work
 - 👁️ [**Computer Vision Projects**](https://github.com/visionbyangelic/computer-vision-projects)
 - 🤖 [**Machine Learning Projects**](https://github.com/visionbyangelic/machine-learning-projects)
