@@ -8,10 +8,8 @@
 
 ## 🧠 About Me
 
-- 🎓 **Data Scientist** specializing in **Machine Learning** and **Computer Vision**.
-- 👁️ Building **emotion-aware AI**, real-time analytics, and ethical tech solutions.
-- ⚙️ **Automation Expert** integrating Python scripts with **N8N**, **Zapier**, and **Make**.
-- 🚀 Passionate about fast prototyping and building end-to-end systems that *feel alive*.
+- 🎓 **Education:** Bachelors in **Biochemistry** and **Software Engineering**. This combination allows me to approach data with scientific rigor and engineering precision.
+- 🚀 **Mission:** Building human-centric AI, predictive models, and end-to-end systems that bridge the gap between logic and life.
 
 ---
 
@@ -27,7 +25,7 @@
 
 ---
 
-## 🗂️ A Curated List of Project Spaces
+## 🗂️ Project Spaces
 
 #### Core AI & Data Work
 - 👁️ [**Computer Vision Projects**](https://github.com/visionbyangelic/computer-vision-projects)
@@ -36,15 +34,15 @@
     - *See also:* [Angelic on Kaggle](https://www.kaggle.com/nerdyalgorithm)
 
 #### Supporting Skills
-- 🌐 [**Web Projects**](https://github.com/visionbyangelic/web-projects) – Frontend prototypes, UI experiments, and micro-interactions.
-- 🧠 [**LeetCode Solutions**](https://github.com/visionbyangelic/leetcode_solutions) – Clean & efficient problem-solving with algorithm notes.
+- 🌐 [**Web Projects**](https://github.com/visionbyangelic/web-projects) – Frontend prototypes and UI experiments.
+- 🧠 [**LeetCode Solutions**](https://github.com/visionbyangelic/leetcode_solutions) – Clean & efficient problem-solving.
 
 #### 🧪 Experimental & Others
-- 🐍 [**Python Projects (Miscellaneous)**](https://github.com/visionbyangelic/other-projects) – A collection of standalone Python projects and experiments highlighting creativity and exploration.
+- 🐍 [**Python Projects (Miscellaneous)**](https://github.com/visionbyangelic/other-projects) – Standalone scripts and creative explorations.
 
-#### 🎓 Continuous Learning & Education
-- 📚 [**Dataraflow**](https://github.com/visionbyangelic/DATARAFLOW) – Data Science internship (learning projects & submissions).
-- 🎓 [**NIIT**](https://github.com/visionbyangelic/NIIT-SCHOOL-WORK) – Software Engineering degree coursework (*Select classes and exercises*).
+#### 🎓 Continuous Learning
+- 📚 [**Dataraflow**](https://github.com/visionbyangelic/DATARAFLOW) – Data Science internship projects.
+- 🎓 [**NIIT**](https://github.com/visionbyangelic/NIIT-SCHOOL-WORK) – Software Engineering degree coursework.
 
 ---
 
@@ -54,12 +52,12 @@
 - **Medium:** [Medium Articles](https://medium.com/@visionbyangelic) – Curated, polished AI papers and structured guides.
 - **Substack:** [Substack Newsletter](https://open.substack.com/pub/nerdyalgorithm) – Essays on AI, ML, and the human side of technology.
 
+
 ---
 
 ## 💼 Work With Me
 
-- **Looking for:** Data Science roles.
-- **Ideal work:** Building data-driven products, predictive models, emotion-aware AI tools, and ethical technology solutions.
+**Looking for:** Data Science & Computer Vision roles where I can build robust, data-driven products.
 
 ---
 
@@ -78,9 +76,3 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=visionbyangelic&show_icons=true&theme=gotham&count_private=true&cache_seconds=3600" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionbyangelic&layout=compact&theme=radical&cache_seconds=3600" />
 </div>
-
----
-
-<p align="center">
-Building data-driven and emotionally intelligent AI that bridges human insight with machine capability, grounded in ethics, real-time systems, and computer vision.
-</p>
