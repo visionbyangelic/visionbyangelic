@@ -36,12 +36,9 @@
 - 🧮 [**Data Projects**](https://github.com/visionbyangelic/data-projects)
     - *See also:* [Angelic on Kaggle](https://www.kaggle.com/nerdyalgorithm)
 
-#### Supporting Skills
-- 🌐 [**Web Projects**](https://github.com/visionbyangelic/web-projects) – Frontend prototypes and UI experiments.
+#### 🧪 Creative & Experimental
+- 🚀 [**Other Projects (Web & Python)**](https://github.com/visionbyangelic/other-projects) – A playground for frontend prototypes, UI experiments, and standalone Python scripts.
 - 🧠 [**LeetCode Solutions**](https://github.com/visionbyangelic/leetcode_solutions) – Clean & efficient problem-solving.
-
-#### 🧪 Experimental & Others
-- 🐍 [**Python Projects (Miscellaneous)**](https://github.com/visionbyangelic/other-projects) – Standalone scripts and creative explorations.
 
 #### 🎓 Continuous Learning
 - 📚 [**Dataraflow**](https://github.com/visionbyangelic/DATARAFLOW) – Data Science internship projects.
