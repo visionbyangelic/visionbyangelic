@@ -72,7 +72,13 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=visionbyangelic&show_icons=true&theme=gotham&count_private=true&cache_seconds=3600" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionbyangelic&layout=compact&theme=radical&cache_seconds=3600" />
+<div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
+
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=visionbyangelic&show_icons=true&theme=gotham&count_private=true" />
+  
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionbyangelic&layout=compact&theme=radical" />
+
 </div>
+
+
+
