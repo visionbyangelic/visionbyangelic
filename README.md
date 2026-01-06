@@ -59,6 +59,8 @@
 
 **Looking for:** Data Science & Computer Vision roles where I can build robust, data-driven products.
 
+
+
 ---
 
 ## 🌐 Connect With Me
@@ -70,15 +72,14 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
-
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=visionbyangelic&show_icons=true&theme=gotham&count_private=true" />
-  
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visionbyangelic&layout=compact&theme=radical" />
-
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/visionbyangelic/visionbyangelic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/visionbyangelic/visionbyangelic/output/github-snake.svg" />
+  <img alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/visionbyangelic/visionbyangelic/output/github-snake.svg" />
+</picture>
 
 
