@@ -67,7 +67,7 @@
 [![Email](https://img.shields.io/badge/Email-visionbyangelic%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:visionbyangelic@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angelic%20C-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/angeliccharles)
 [![Twitter](https://img.shields.io/badge/Twitter-@visionbyangelic-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/visionbyangelic)
-[![Discord](https://img.shields.io/badge/Discord-@nerdyalgorithm-5865F2?style=flat-square&logo=discord)](https://discord.com/users/nerdyalgorithm)
+[![Discord](https://img.shields.io/badge/Discord-@nerdyalgorithm-5865F2?style=flat-square&logo=discord)](https://discord.com/users/geekingmoon)
 
 ---
 
