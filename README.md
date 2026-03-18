@@ -54,14 +54,6 @@
 
 ---
 
-## 💼 Work With Me
-
-**Looking for:** Data Science & Computer Vision roles where I can build robust, data-driven products.
-
-
-
----
-
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-visionbyangelic%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:visionbyangelic@gmail.com)
