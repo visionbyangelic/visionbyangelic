@@ -48,7 +48,7 @@
 ## ✍️ Writing & Publications
 
 - **Hashnode:** [Hashnode Blog](https://nerdyalgorithm.hashnode.dev/?source=top_nav_blog_home) – My main hub for data science publications and tutorials.
-- **Medium:** [Medium Articles](https://medium.com/@visionbyangelic) – Neuroscience research, computational project documentation, and deep dives into brain-computer interfaces.
+- **Medium:** [Medium Articles](https://medium.com/@visionbyangelic) – Research, project documentation, and deep dives into computational neuroscience.
 - **Substack:** [Substack Newsletter](https://open.substack.com/pub/nerdyalgorithm) – Essays on AI, ML, and the human side of technology.
 
 
@@ -59,7 +59,7 @@
 [![Email](https://img.shields.io/badge/Email-visionbyangelic%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:visionbyangelic@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angelic%20C-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/angeliccharles)
 [![Twitter](https://img.shields.io/badge/Twitter-@visionbyangelic-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/visionbyangelic)
-[![Discord](https://img.shields.io/badge/Discord-@nerdyalgorithm-5865F2?style=flat-square&logo=discord)](https://discord.com/users/geekingmoon)
+[![Discord](https://img.shields.io/badge/Discord-@geekingmoon-5865F2?style=flat-square&logo=discord)](https://discord.com/users/geekingmoon)
 
 ---
 
