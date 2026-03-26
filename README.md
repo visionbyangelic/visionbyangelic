@@ -48,7 +48,7 @@
 ## ✍️ Writing & Publications
 
 - **Hashnode:** [Hashnode Blog](https://nerdyalgorithm.hashnode.dev/?source=top_nav_blog_home) – My main hub for data science publications and tutorials.
-- **Medium:** [Medium Articles](https://medium.com/@visionbyangelic) – Curated, polished AI papers and structured guides.
+- **Medium:** [Medium Articles](https://medium.com/@visionbyangelic) – Neuroscience research, computational project documentation, and deep dives into brain-computer interfaces.
 - **Substack:** [Substack Newsletter](https://open.substack.com/pub/nerdyalgorithm) – Essays on AI, ML, and the human side of technology.
 
 
