@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Education:** Bachelors in **Biochemistry** and **Software Engineering**. This combination allows me to approach data with scientific rigor and engineering precision. currently learning computational neuroscience @neuromatch
+- 🎓 **Education:** Bachelors in **Biochemistry** and **Software Engineering**. This combination allows me to approach data with scientific rigor and engineering precision. currently learning computational neuroscience **@neuromatch** 
 - 🚀 **Mission:** Building research-grade AI at the intersection of neuroscience and machine learning, working toward an MSc in Computational Neuroscience.
 
 ---
