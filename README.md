@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Education:** Bachelors in **Biochemistry** and **Software Engineering**. This combination allows me to approach data with scientific rigor and engineering precision.
+- 🎓 **Education:** Bachelors in **Biochemistry** and **Software Engineering**. This combination allows me to approach data with scientific rigor and engineering precision. currently learning computational neuroscience @neuromatch
 - 🚀 **Mission:** Building research-grade AI at the intersection of neuroscience and machine learning, working toward an MSc in Computational Neuroscience.
 
 ---
@@ -54,7 +54,7 @@
 ## ✍️ Writing & Publications
 - **Hashnode:** [Hashnode Blog](https://nerdyalgorithm.hashnode.dev/?source=top_nav_blog_home) – My main hub for data science publications and tutorials.
 - **Medium:** [Medium Articles](https://medium.com/@visionbyangelic) – Research, project documentation, and deep dives into computational neuroscience.
-- **Substack:** [Research As Stories](https://open.substack.com/pub/visionbyangelic) – Dense academic research translated into stories you actually want to read.
+- **Substack:** [Research As Stories](https://open.substack.com/pub/researchasstories) – Dense academic research translated into stories you actually want to read.
 
 
 
