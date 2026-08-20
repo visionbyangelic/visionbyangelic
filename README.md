@@ -69,9 +69,10 @@ I build research-grade computational models at the intersection of biological ne
 ## ✍️ Writing & Community
 
 - **Substack** — [Research As Stories](https://open.substack.com/pub/researchasstories): Translating complex computational neuroscience papers into accessible narratives.
-- **Medium** — [Technical articles](https://medium.com/@visionbyangelic) on electrophysiology signal processing and ML architectures.
+- **Medium** — [Technical articles](https://medium.com/@visionbyangelic): Deep dives into neuroscience phenomena, neuropsychology cases (e.g., Alien Hand Syndrome), and brain dynamics.
 - **Hashnode** — [NerdyAlgorithm](https://nerdyalgorithm.hashnode.dev): Applied data science tutorials and engineering guides.
 - **Telegram** — [Neuroscience Resources](https://t.me/neuroscienceresources): Curated papers, tools, and learning roadmaps for aspiring neuroscientists.
+
 
 ---
 
