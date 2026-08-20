@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Angelic 👩🏾‍💻</h1>
 <p align="center">
-    <b>Independent Researcher · Computational Neuroscience × ML</b><br>
+    <b>Computational Neuroscience & ML Researcher</b><br>
     Building systems that probe how intelligence emerges — biological and artificial.<br>
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **Education:** Bachelors in **Biochemistry** and **Software Engineering**. This combination allows me to approach data with scientific rigor and engineering precision. currently learning computational neuroscience **@neuromatch** 
+- 🎓 **Education:** Bachelors in **Biochemistry** and **Software Engineering**. This combination allows me to approach data with scientific rigor and engineering precision. Alumna / Completed Computational Neuroscience **@Neuromatch Academy⁠** 
 - 🚀 **Mission:** Building research-grade AI at the intersection of neuroscience and machine learning, working toward an MSc in Computational Neuroscience.
 
 ---
