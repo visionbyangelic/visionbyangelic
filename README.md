@@ -28,7 +28,7 @@
 ## 🗂️ Project Spaces
 
 #### 🧠 Neuroscience Research
-- 🔬 [**Embodied Morphological Navigation (EM-NAV)**](https://github.com/visionbyangelic/embodied-morphological-navigation) – SNN agent in a 3D Blender environment studying emergent spatial representations.
+- 🔬 [**Embodied Morphological Navigation (EM-NAV)**](https://github.com/visionbyangelic/em-nav-representation-geometry) – SNN agent in a 3D Blender environment studying emergent spatial representations.
 - ⚡ [**Neuro-Fatigue Prediction**](https://github.com/visionbyangelic/Neuro-Fatigue-Prediction) – EEG-based fatigue detection using 1D-CNN on consumer-grade hardware.
 - 🎭 [**Multimodal Emotion Recognition (Emotiwave)**](https://github.com/visionbyangelic/Multimodal-Emotion-Recognition) – Preprint research on cross-modal fusion under sensor failure.
 
