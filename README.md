@@ -67,6 +67,12 @@ I build research-grade computational models at the intersection of biological ne
 
 ---
 
+## 🎤 Talks & Presentations
+
+- **NSN Conference** — Oral presentation of the Brain Aging project 
+
+---
+
 ## ✍️ Writing & Community
 
 - **Substack** — [Research As Stories](https://open.substack.com/pub/researchasstories): Translating complex computational neuroscience papers into accessible narratives.
