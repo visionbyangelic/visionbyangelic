@@ -43,6 +43,7 @@ I build research-grade computational models at the intersection of biological ne
 
 ### 🧠 Neuroscience & Cognitive AI
 - **[Embodied Morphological Navigation (EM-NAV)](https://github.com/visionbyangelic/em-nav-representation-geometry)** — SNN agent in a 3D Blender environment studying emergent spatial representations and grid/place cell dynamics.
+- **[Connectome-to-Behavior: Closed-Loop Whole-Brain Emulation ](https://github.com/visionbyangelic/ConnectomeToBehaviour)** — Closed-loop whole-brain emulation of the fruit fly: connecting a real biological wiring diagram to a physical body simulation to produce natural behaviors.
 - **[Brain Aging Modeling](https://github.com/visionbyangelic/brain-aging)** — Computational and statistical modeling of structural and functional neural markers across aging trajectories.
 - **[Neuro-Fatigue Prediction](https://github.com/visionbyangelic/Neuro-Fatigue-Prediction)** — Cognitive fatigue detection from raw EEG using 1D-CNNs and MNE-Python.
 - **[Multimodal Emotion Recognition (Emotiwave)](https://github.com/visionbyangelic/Multimodal-Emotion-Recognition)** — Cross-modal attention and robust fusion under sensor failure ([Preprint](https://orcid.org/0009-0008-7279-9663)).
