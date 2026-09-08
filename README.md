@@ -69,7 +69,7 @@ I build research-grade computational models at the intersection of biological ne
 
 ## 🎤 Talks & Presentations
 
-- **NSN Conference** — Oral presentation of the Brain Aging project 
+- **NSN Conference** — Accepted for Oral presentation of the Brain Aging project 
 
 ---
 
