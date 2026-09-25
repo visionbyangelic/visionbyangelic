@@ -60,20 +60,18 @@ I build research-grade computational models at the intersection of biological ne
   *Also active on [Kaggle](https://www.kaggle.com/nerdyalgorithm).*
 
 
-### 🎓 Fellowships & Intensive Programs
-- **African Brain Data Network (ABDN)** — Fellow / Researcher working with neuroimaging datasets and neuroinformatics across African cohorts.
-- **Neuromatch Academy** — Computational Neuroscience (Interactive Track: fMRI & neural dynamics).
-- **[SPARK-CAMIRA](https://github.com/visionbyangelic/SPARK-CAMIRA)** — Medical imaging AI fellow in partnership with CAMERA MRI Africa.
-- **[DataraFlow](https://github.com/visionbyangelic/DATARAFLOW)** — Valedictorian graduate in Data Science; now serving as program mentor.
-- **[NIIT](https://github.com/visionbyangelic/NIIT-SCHOOL-WORK)** — Software engineering core coursework.
+### 🎓 Fellowships & Programs
+
+* **[African Brain Data Network (ABDN)](https://africanbraindatanetwork.com/)**: MRI/fMRI Fellow working with structural neuroimaging datasets and regional neuroinformatics.
+* **CAMERA MRI Africa (SPARK Academy)**: AI in Medical Imaging Fellow (in partnership with McGill University and mailab.io).
+* **Neuromatch Academy**: Computational Neuroscience Alumni (Interactive Track, Pod Impundulu-Carob).
 
 ---
 
 ## 🎤 Presentations & ✍️ Writing
 
-
-* **NSN Conference (2026)**: Accepted for oral presentation on structural brain-aging modeling and cross-dataset generalization.
-* **[Research As Stories](https://open.substack.com/pub/researchasstories)**: Digital publication deconstructing peer-reviewed computational neuroscience into clear scientific narratives.
+* **[NSN Conference (2026)](https://www.nsn-nigeria.org)**: Accepted for oral presentation on structural brain-aging modeling and cross-dataset generalization.
+* **[Research As Stories](https://x.com/researchasstory)**: Digital publication deconstructing peer-reviewed computational neuroscience into clear scientific narratives.
 * **[Medium](https://medium.com/@visionbyangelic)**: Technical essays on biosignal processing, cognitive architectures, and neuropsychology.
 * **[Hashnode](https://nerdyalgorithm.hashnode.dev)**: Applied data science tutorials and engineering guides.
 * **[Telegram Archive](https://t.me/neuroscienceresources)**: Curated open-access computational neuroscience resources, datasets, and literature.
