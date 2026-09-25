@@ -13,13 +13,17 @@ I bring a dual foundation in **Biochemistry** and **Software Engineering** to th
 **Research focus**
 - Spiking Neural Networks (SNNs) and neuromorphic models
 - Geometry of spatial navigation representations (grid/place cell dynamics)
-- Neural signal processing (EEG/fMRI) and brain aging trajectories
-- Multimodal fusion and robust perception under sensor failure
+- Connectome-based neural modeling and biophysical simulations
+- Embodied sensorimotor control and closed-loop behavior
 
 **Leadership & community**
-- Data Science Mentor @ DataraFlow  
-- Virtual Coordinator @ Women in Neuroscience Nigeria  
-- Creator & Writer @ [Research As Stories](https://open.substack.com/pub/researchasstories)
+
+* Ambassador, Communications & Outreach @ [Neuromatch](https://neuromatch.io/)
+* Virtual Coordinator @ Women in Neuroscience Nigeria (WiNN)
+* Steering Committee Member @ Dementia Africa
+* Data Science Mentor @ DataraFlow
+* Community Member @ Cohere For AI (ML Understanding, Safety & Alignment)
+* Creator & Lead Writer @ [Research As Stories](https://open.substack.com/pub/researchasstories)
 
 **Mission**  
 I build research-grade computational models at the intersection of biological neural systems and machine learning, with the goal of advancing both scientific understanding and practical neuro-inspired AI. Currently preparing for an MSc in Computational Neuroscience.
@@ -28,15 +32,15 @@ I build research-grade computational models at the intersection of biological ne
 
 ## 🛠️ Tools & Stack
 
-| Domain              | Technologies                                      |
-|---------------------|---------------------------------------------------|
-| **Languages**       | Python, SQL, JavaScript, Java, C++, TypeScript   |
-| **Neuro & ML**      | PyTorch, snnTorch, Brian2, MNE-Python, TensorFlow, Scikit-learn |
-| **Data & Signals**  | NumPy, Pandas, SciPy, Matplotlib, Seaborn        |
-| **Computer Vision** | OpenCV, YOLOv8, MediaPipe, Grad-CAM              |
-| **Web & Deploy**    | FastAPI, Streamlit, Gradio, React/Vite, HTML/CSS |
-| **Creative & Hardware** | Blender, Arduino, Raspberry Pi                |
-
+| Domain | Technologies |
+|---|---|
+| **Neuro & Simulation** | Brian2, Brian2CUDA, MuJoCo, flygym (NeuroMechFly), flybody, Gymnasium, snnTorch, MNE-Python, FreeSurfer |
+| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn |
+| **Languages** | Python, SQL, JavaScript, TypeScript, Java |
+| **Data & Signals** | NumPy, Pandas, SciPy, Matplotlib, Seaborn |
+| **Computer Vision** | OpenCV, YOLOv8, MediaPipe, Grad-CAM |
+| **Web & Deployment** | FastAPI, Streamlit, Gradio, React |
+| **Hardware & 3D** | Blender, Arduino, Raspberry Pi |
 ---
 
 ## 🗂️ Selected Projects
@@ -48,15 +52,13 @@ I build research-grade computational models at the intersection of biological ne
 - **[Neuro-Fatigue Prediction](https://github.com/visionbyangelic/Neuro-Fatigue-Prediction)** — Cognitive fatigue detection from raw EEG using 1D-CNNs and MNE-Python.
 - **[Multimodal Emotion Recognition (Emotiwave)](https://github.com/visionbyangelic/Multimodal-Emotion-Recognition)** — Cross-modal attention and robust fusion under sensor failure ([Preprint](https://orcid.org/0009-0008-7279-9663)).
 
-### 🤖 Core AI & Data Engineering
+### 🤖 Applied AI & Vision
+* **[OralSight V1](https://github.com/visionbyangelic/computer-vision-projects)**: Research prototype evaluating lightweight CNNs (MobileNetV2) and Grad-CAM interpretability for oral lesion classification.
 - **[Computer Vision Projects](https://github.com/visionbyangelic/computer-vision-projects)** — Object detection, semantic segmentation, and medical imaging pipelines.
 - **[Machine Learning Projects](https://github.com/visionbyangelic/machine-learning-projects)** — Predictive modeling, tabular pipelines, and classical ML benchmarks.
 - **[Data Projects](https://github.com/visionbyangelic/data-projects)** — Exploratory analysis, ETL workflows, and dashboards.  
   *Also active on [Kaggle](https://www.kaggle.com/nerdyalgorithm).*
 
-### 🧪 Creative, Hardware & Systems
-- **[Other Projects (Web & Python)](https://github.com/visionbyangelic/other-projects)** — Full-stack prototypes, agent workflows, and standalone systems.
-- **[LeetCode Solutions](https://github.com/visionbyangelic/leetcode_solutions)** — Algorithmic problem-solving in Python & Java.
 
 ### 🎓 Fellowships & Intensive Programs
 - **African Brain Data Network (ABDN)** — Fellow / Researcher working with neuroimaging datasets and neuroinformatics across African cohorts.
@@ -67,19 +69,14 @@ I build research-grade computational models at the intersection of biological ne
 
 ---
 
-## 🎤 Talks & Presentations
+## 🎤 Presentations & ✍️ Writing
 
-- **NSN Conference** — Accepted for Oral presentation of the Brain Aging project 
 
----
-
-## ✍️ Writing & Community
-
-- **Substack** — [Research As Stories](https://open.substack.com/pub/researchasstories): Translating complex computational neuroscience papers into accessible narratives.
-- **Medium** — [Technical articles](https://medium.com/@visionbyangelic): Deep dives into neuroscience phenomena, neuropsychology cases (e.g., Alien Hand Syndrome), and brain dynamics.
-- **Hashnode** — [NerdyAlgorithm](https://nerdyalgorithm.hashnode.dev): Applied data science tutorials and engineering guides.
-- **Telegram** — [Neuroscience Resources](https://t.me/neuroscienceresources): Curated papers, tools, and learning roadmaps for aspiring neuroscientists.
-
+* **NSN Conference (2026)**: Accepted for oral presentation on structural brain-aging modeling and cross-dataset generalization.
+* **[Research As Stories](https://open.substack.com/pub/researchasstories)**: Digital publication deconstructing peer-reviewed computational neuroscience into clear scientific narratives.
+* **[Medium](https://medium.com/@visionbyangelic)**: Technical essays on biosignal processing, cognitive architectures, and neuropsychology.
+* **[Hashnode](https://nerdyalgorithm.hashnode.dev)**: Applied data science tutorials and engineering guides.
+* **[Telegram Archive](https://t.me/neuroscienceresources)**: Curated open-access computational neuroscience resources, datasets, and literature.
 
 ---
 
